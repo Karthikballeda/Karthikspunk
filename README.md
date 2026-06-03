@@ -1,4 +1,4 @@
-# Karthikspunk
+
 # 💫 About Me:
 M.Tech CS student with hands-on experience in data analytics, SQL, Python, and data engineering. Skilled in collecting, transforming, and analyzing large datasets to derive actionable insights. Has worked on OCR-based data extraction, automation pipelines, Spark SQL analytics, and LLM unlearning research. Strong at problem-solving and stakeholder collaboration.<br><br>Did Software Dev Intern @ Sabado Technologies<br>CGPA 7.5 / M.Tech<br>CGPA 8.46 / B.Tech
 
